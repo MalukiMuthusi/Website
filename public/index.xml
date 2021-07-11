@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Maluki Muthusi</title>
+    <link>maluki.sharehen.com/</link>
+    <description>Recent content on About Maluki Muthusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2021, Maluki Muthusi</copyright><atom:link href="maluki.sharehen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post</title>
+      <link>maluki.sharehen.com/post/</link>
+      <pubDate>Thu, 17 Jun 2021 15:24:27 +0300</pubDate>
+      
+      <guid>maluki.sharehen.com/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categories</title>
+      <link>maluki.sharehen.com/categories/</link>
+      <pubDate>Thu, 17 Jun 2021 15:24:03 +0300</pubDate>
+      
+      <guid>maluki.sharehen.com/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>maluki.sharehen.com/about/</link>
+      <pubDate>Thu, 17 Jun 2021 15:20:19 +0300</pubDate>
+      
+      <guid>maluki.sharehen.com/about/</guid>
+      <description>About Me Hi, I am Maluki Muthusi.
+I am software engineer passionate about technology and its use cases in solving problems. Some of the programming languages I use are Go, Dart, Java, Kotlin and JavaScript. I do write cross platform applications using flutter toolkit.
+Reach Me You can reach me through social media LinkedIn, Twitter or Github. Or through my email malukimuthusi@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
