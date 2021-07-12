@@ -1,7 +1,7 @@
 ---
 title: "Books"
 date: 2021-07-11T16:44:11+03:00
-draft: true
+draft: false
 ---
 
 One of my 2021's goal is to read 30 books. These includes technical and non-technical books. I have a reading list at [goodreads.com](https://www.goodreads.com/user/show/106706313-maluki-muthusi). You can follow me at [maluki-muthusi](https://www.goodreads.com/user/show/106706313-maluki-muthusi). I would like to see what books you are reading, have read or you are planning to read.
